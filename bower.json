@@ -1,0 +1,21 @@
+{
+  "name": "fwNr23",
+  "description": "Framework Nr 23",
+  "version": "0.0.1",
+  "authors": [
+    "Jevgeni Geimanen <jevgeni.geimanen@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "requirejs": "~2.1.20"
+  }
+}
